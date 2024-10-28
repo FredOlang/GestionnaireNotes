@@ -72,7 +72,7 @@ Matière 3 : Moyenne = 14.5, Meilleure note = 16, Plus faible note = 13
 
 ## Auteur
 
-- **Fred OLANGASSICKA** - [GitHub](https://github.com/votre-nom-utilisateur)
+- **Fred OLANGASSICKA** - [GitHub](https://github.com/FredOlang)
 
 ## Licence
 
